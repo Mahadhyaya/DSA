@@ -56,7 +56,7 @@ void kruskal()
         printf("\nCost of min-cost spanning tree= %d\n",mincost);
 }
 
-void main()
+int main()
 {
         int i,j;
         printf("Enter the number of vertices:");
